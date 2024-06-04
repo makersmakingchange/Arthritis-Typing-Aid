@@ -1,11 +1,12 @@
 # Arthritis Typing Aid
 The Arthritis Typing Aid is a ball stylus that allows users with arthritis to type without pain. This device is intended for users with arthritis that have difficulty typing due to joint pain. The ball of the device provides an easy grip, while the stylus allows for the user to type.
 
+The Arthritis Typing Aid was designed by Alec Stilwell and published on [MyMiniFactory](https://www.myminifactory.com/object/3d-print-arthritis-typing-aid-77579). 
+
 <img src="Photos/Arthritis-Typing-Aid.jpg" width="500" alt="Picture of Arthritis Typing Aid.">
 
-## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/arthritis-typing-aid/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/arthritis-typing-aid/)
+## Makers Making Change Assistive Device Library
+https://www.makersmakingchange.com/s/product/arthritis-typing-aid/01tJR00000092YrYAI
 
 
 ## How to Obtain an Arthritis Typing Aid
@@ -15,7 +16,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain an Arthritis Typing Aid, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/arthritis-typing-aid/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain an Arthritis Typing Aid, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/arthritis-typing-aid/01tJR00000092YrYAI). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -59,9 +60,8 @@ Reference the [Assembly Guide](/Documentation/Arthritis_Typing_Aid_Assembly_Guid
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-Designers:
-•	Design by [Alec Stilwell @astilwell - MyMiniFactory](https://www.myminifactory.com/users/astilwell)
-•	Documentation by Neil Squire Society/Makers Making Change 
+ - Design by [Alec Stilwell @astilwell - MyMiniFactory](https://www.myminifactory.com/users/astilwell)
+ - Documentation by Neil Squire Society/Makers Making Change 
 
 
 ## License
@@ -69,23 +69,26 @@ Everything needed or used to design, make, test, or prepare the Arthritis Typing
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Arthritis Typing Aid are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
+Source Location: https://github.com/makersmakingchange/Arthritis-Typing-Aid
 
 ---
 
 ## About Makers Making Change
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+[<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
+Makers Making Change is a program of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that uses technology, knowledge, and passion to empower people with disabilities.
 
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
+Makers Making Change leverages the capacity of community based Makers, Disability Professionals and Volunteers to develop and deliver affordable Open Source Assistive Technologies.
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
- - GitHub: [https://github.com/makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
+ - X (formerly Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
+ - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
+ - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
+ - Thingiverse: [makersmakingchange](https://www.thingiverse.com/makersmakingchange/about)
+ - Printables: [MakersMakingChange](https://www.printables.com/@MakersMakingChange)
 
+### Contact Us
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
 
-
-## Contact Us
-
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
