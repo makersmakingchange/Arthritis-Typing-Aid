@@ -3,7 +3,7 @@ The Arthritis Typing Aid is a ball stylus that allows users with arthritis to ty
 
 The Arthritis Typing Aid was designed by Alec Stilwell and published on [MyMiniFactory](https://www.myminifactory.com/object/3d-print-arthritis-typing-aid-77579). 
 
-<img src="Photos/Arthritis-Typing-Aid.jpg" width="500" alt="Picture of Arthritis Typing Aid.">
+<img src="Photos/Arthritis-Typing-Aid.jpg" height="500" alt="Picture of Arthritis Typing Aid.">
 
 ## Makers Making Change Assistive Device Library
 https://www.makersmakingchange.com/s/product/arthritis-typing-aid/01tJR00000092YrYAI
@@ -73,6 +73,7 @@ Source Location: https://github.com/makersmakingchange/Arthritis-Typing-Aid
 
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -91,4 +92,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
-
+<!-- ABOUT MMC END -->
